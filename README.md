@@ -104,7 +104,7 @@ Data recorded during testing:
 - The ESP32 control system performed reliably under all three test scenarios (P2P sharing, grid fallback, and standby).
 - Real-time data logging through the IoT webpage recorded all energy-sharing behaviour.
 
-<img width="1566" height="1148" alt="image" src="https://github.com/user-attachments/assets/142e9c18-4fb9-4c46-8347-a0cc61926d36" />
+<img width="1066" height="848" alt="image" src="https://github.com/user-attachments/assets/142e9c18-4fb9-4c46-8347-a0cc61926d36" />
 
 
 ## Conclusion
