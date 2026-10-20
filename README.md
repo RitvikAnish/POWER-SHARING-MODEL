@@ -1,0 +1,2 @@
+# SUSTAINABLE-ENERGY-EXCHANGE-BETWEEN-HOUSEHOLDS-USING-SOLAR-POWER-INTEGRATION
+Developed a scaled-down peer-to-peer (P2P) power sharing hardware model enabling energy exchange between two households using solar power integration. Implemented embedded control logic with ESP32, relays, and voltage/current sensing to monitor demand, detect surplus solar energy, and dynamically route power between households
